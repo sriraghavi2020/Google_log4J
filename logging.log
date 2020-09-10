@@ -1,0 +1,14 @@
+2020-09-07 15:49:15 DEBUG gogglePageTest:25 - Hello
+2020-09-10 11:01:35 DEBUG gogglePageTest:25 - Hello
+2020-09-10 11:06:35 INFO  gogglePageTest:19 - Chrome is launched
+2020-09-10 11:06:43 INFO  gogglePageTest:22 - web page is opened
+2020-09-10 11:06:43 DEBUG gogglePageTest:27 - Hello
+2020-09-10 11:06:43 INFO  gogglePageTest:28 - Checking the logo
+2020-09-10 11:06:43 INFO  gogglePageTest:31 - Logo is present
+2020-09-10 11:06:47 INFO  gogglePageTest:43 - browser is closed
+2020-09-10 11:08:26 INFO  gogglePageTest:19 - Chrome is launched
+2020-09-10 11:08:34 INFO  gogglePageTest:22 - web page is opened
+2020-09-10 11:08:34 DEBUG gogglePageTest:27 - Hello
+2020-09-10 11:08:34 INFO  gogglePageTest:28 - Checking the logo
+2020-09-10 11:08:34 INFO  gogglePageTest:31 - Logo is present
+2020-09-10 11:08:38 INFO  gogglePageTest:43 - browser is closed
